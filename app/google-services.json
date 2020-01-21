@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "427883661566",
+    "firebase_url": "https://bestuniversitys-a09d9.firebaseio.com",
+    "project_id": "bestuniversitys-a09d9",
+    "storage_bucket": "bestuniversitys-a09d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427883661566:android:e57e2cf0e7b8de2cd57daf",
+        "android_client_info": {
+          "package_name": "app.myfirstproject.bestuniversitys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427883661566-ns13man6g2eu7veu4pvfnq3lm7tdgnv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKyjVsBgtyMLBJMr1sd2K-hwdp8tvM4bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427883661566-ns13man6g2eu7veu4pvfnq3lm7tdgnv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
